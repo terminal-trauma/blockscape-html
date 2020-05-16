@@ -14,5 +14,7 @@ Enpowering Magento2 stores across the crypto ecosystem by developing a lightweig
 - Local development environment for M2CryptoPayment, integration with Electrum wallet
 - Solidity Unit tests for OctoBounty
 - OctoBounty documentation
+- Blockscape DAO website referencing exiting projects
 - Demo store showcasing capabilities of M2CryptoPayment
 - Using OctoBounty to accelerate M2CryptoPayment development
+- Packaging and introduction of M2CryptoPayments to Magento Marketplace
